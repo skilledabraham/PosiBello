@@ -8,7 +8,7 @@ const Header = () => {
         {/* Logo */}
         <div className="text-2xl font-bold pl-10 text-gray-800">
           <a href="/" className="text-orange-600">
-            Posi Bello
+            Mr Wealths
           </a>
         </div>
 
